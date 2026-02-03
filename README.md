@@ -1,4 +1,4 @@
-# URL Shortening Service API
+# URL Shortening Service
 
 A simple RESTful API service that allows users to shorten long URLs. The API provides full CRUD operations along with access statistics tracking for shortened URLs.
 
