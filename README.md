@@ -16,7 +16,7 @@ A simple RESTful API service that allows users to shorten long URLs. The API pro
 
 ## Technology Stack
 
-- **Backend Framework**: [Your framework - e.g., Node.js/Express, Python/Flask, etc.]
+- **Backend Framework**: [Node.js/Express, Python/Flask, etc.]
 - **Database**: [Your database - e.g., MongoDB, PostgreSQL, etc.]
 - **ID Generation**: Counter-based sequential IDs using database counters collection
 
